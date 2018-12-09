@@ -1,0 +1,40 @@
+{
+    'coord': {
+                'lon': -80.51,
+                'lat': 43.43
+              },
+    'weather': [
+                    {
+                        'id': 600, 'main': 'Snow',
+                        'description': 'light snow', 'icon': '13n'
+                    }
+               ],
+    'base': 'stations',
+    'main': {
+                'temp': 269.42,
+                'pressure': 1032,
+                'humidity': 73,
+                'temp_min': 269.15,
+                'temp_max': 270.15
+            },
+    'visibility': 14484,
+    'wind': {
+                'speed': 3.1,
+                'deg': 270
+            },
+    'clouds': {
+                'all': 90
+              },
+    'dt': 1544310660,
+    'sys': {
+                'type': 1,
+                'id': 836,
+                'message': 0.0061,
+                'country': 'CA',
+                'sunrise': 1544359378,
+                'sunset': 1544391948
+            },
+    'id': 5992996,
+    'name': 'Kitchener',
+    'cod': 200
+}
